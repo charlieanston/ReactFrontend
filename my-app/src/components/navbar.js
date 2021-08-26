@@ -1,7 +1,7 @@
 // import React, {useState} from '../node_modules/react';
-import {Link} from '../../node_modules/react-router-dom/Link';
+// import {Link} from '../../node_modules/react-router-dom/Link';
 
-
+import { Link } from 'react-router-dom';
 function Navbar() {
     return (
         <>
